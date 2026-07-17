@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zhouy8661-prog/UE5-Tech-Design"><img src="https://img.shields.io/badge/Tech_Docs-UE5_Tech_Design-58A6FF?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
+  <a href="https://github.com/zhouy8661-prog/UE5-Tech-Design"><img src="https://img.shields.io/badge/技术文档-UE5_Tech_Design-58A6FF?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
   <a href="https://github.com/zhouy8661-prog/portfolio"><img src="https://img.shields.io/badge/Portfolio-Web-3FB950?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
