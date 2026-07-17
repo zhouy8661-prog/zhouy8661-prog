@@ -10,8 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/UE5-Engine-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blueprint-Architecture-58A6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Programming-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-Workflow-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Game-Development-3FB950?style=for-the-badge" />
 </p>
@@ -91,12 +89,12 @@ ENGINE
 ─────────────────────────────────────────
   UE5                      ██████████
   Blueprint                ██████████
-  C++                      ███████░░░
+  C++                      ██░░░░░░░░
 
 GAMEPLAY
 ─────────────────────────────────────────
   Character Controller     ████████░░
-  AI Behavior System       ███████░░░
+  AI Behavior System       ███░░░░░░░
   Save System              ████████░░
   State Machine            ████████░░
 
