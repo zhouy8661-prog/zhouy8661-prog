@@ -50,44 +50,24 @@
 
 ## 02 Development Timeline
 
-```mermaid
-timeline
-    title UE5 Development Journey
-
-    2025.08
-        《归渊·闽南版》
-        UE5 Interactive Project
-        海峡信息赛省三
-
-    2025.10
-        《Forever》
-        48H GameJam
-        Complete Playable Demo
-
-    2026.02
-        《归渊木府》
-        Gameplay System Development
-        计算机设计大赛省一等奖
-        入围国赛
-
-    2025 - now
-        《归渊·残》
-        Independent Game Development
-        Long-term Project
-```
+| Date | Project | Milestone |
+| :--- | :--- | :--- |
+| **2025.08** | 《归渊·闽南版》 | UE5 Interactive Project · 海峡信息赛省三 |
+| **2025.10** | 《Forever》 | 48H GameJam · Complete Playable Demo |
+| **2026.02** | 《归渊木府》 | Gameplay System · 计算机设计大赛省一等奖 · 入围国赛 |
+| **2025 - now** | 《归渊·残》 | Independent Game Development · Long-term Project |
 
 ---
 
 ## 03 Development Focus Distribution
 
-```mermaid
-pie title Development Investment
-    "归渊·残 Independent Game" : 40
-    "归渊木府" : 25
-    "归渊·闽南版" : 15
-    "GameJam Prototype" : 10
-    "Learning & Documentation" : 10
-```
+| Project | Share |
+| :--- | :--- |
+| **归渊·残** (Independent Game) | `████████████████` 40% |
+| **归渊木府** | `██████████░░░░░░` 25% |
+| **归渊·闽南版** | `██████░░░░░░░░░` 15% |
+| **GameJam Prototype** | `████░░░░░░░░░░░` 10% |
+| **Learning & Documentation** | `████░░░░░░░░░░░` 10% |
 
 ---
 
