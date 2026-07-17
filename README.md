@@ -1,26 +1,19 @@
+<h1 align="center">
+  <span style="color:#58A6FF">Zhou Yue</span>
+</h1>
+
+<h3 align="center">UE5 Technical Designer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Zhou+Yue;UE5+Technical+Designer;Gameplay+Systems+%7C+Blueprint+Architecture" alt="Typing SVG" />
+  <b>Gameplay Systems</b> &nbsp;|&nbsp;
+  <b>Blueprint Architecture</b> &nbsp;|&nbsp;
+  <b>Data Driven Design</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/zhouy8661-prog/UE5-Tech-Design"><img src="https://img.shields.io/badge/Tech_Docs-UE5_Tech_Design-58A6FF?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
   <a href="https://github.com/zhouy8661-prog/portfolio"><img src="https://img.shields.io/badge/Portfolio-Web-3FB950?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
----
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   I focus on building scalable gameplay systems          │
-│   in Unreal Engine 5.                                    │
-│                                                          │
-│   Gameplay Framework  •  Blueprint Architecture          │
-│   Data Driven Design  •  Technical Documentation         │
-│   System Design  •  AI Behavior Tree                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
 
 ---
 
